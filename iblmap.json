@@ -1,8 +1,16 @@
-[
-	{
-		"key" : "CAJAMAR:  ICMP: ICMP ping",
-		"name" : "Link Cajamar",
-		"latitude" : -25.306707530455782,
-		"longitude" : -49.295708180661514
-	}
-]
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "CAJAMAR:  ICMP: ICMP ping",
+        "name": "Link Cajamar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.295708180661514, -25.306707530455782]
+      }
+    }
+  ]
+}
